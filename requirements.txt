@@ -1,0 +1,5 @@
+selenium
+pip
+lxml
+tornado
+setuptools
